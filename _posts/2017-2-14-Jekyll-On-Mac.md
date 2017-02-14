@@ -4,7 +4,7 @@ title: Getting Github-Pages gem installed on my Mac
 ---
 
 I have a Macbook Pro running MacOs Sierra 10.12.3 and when I set out to create this blog, I wanted to use Jekyll and Github Pages.
-So, following this tutorial:
+So, following this [tutorial](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
 
 I set out to get my [local Jekyll setup](https://jekyllrb.com/docs/installation/) I came to this step:
 
