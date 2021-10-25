@@ -28,7 +28,7 @@ url: https://danjmiller.github.io  # the base hostname and protocol for your sit
 github_username:  danjmiller
 
 # Build settings
-theme: jekyll-theme-tactile
+theme: minima
 plugins:
   - jekyll-feed
 
